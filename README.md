@@ -1,4 +1,4 @@
- 💻 UI/UX Designer & Programmer
+#### 💻 UI/UX Designer & Programmer
 
 #### 📃 Learning C++ & Elixir
 
